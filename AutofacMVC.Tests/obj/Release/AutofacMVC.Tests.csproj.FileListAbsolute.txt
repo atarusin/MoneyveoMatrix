@@ -1,0 +1,1 @@
+D:\Projects\Tepm\MoneyveoTest\AutofacMVC.Tests\obj\Release\AutofacMVC.Tests.csprojResolveAssemblyReference.cache

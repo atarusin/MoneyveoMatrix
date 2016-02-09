@@ -1,0 +1,4 @@
+D:\Projects\Tepm\MoneyveoTest\Matrix\bin\Release\Matrix.dll
+D:\Projects\Tepm\MoneyveoTest\Matrix\bin\Release\Matrix.pdb
+D:\Projects\Tepm\MoneyveoTest\Matrix\obj\Release\Matrix.dll
+D:\Projects\Tepm\MoneyveoTest\Matrix\obj\Release\Matrix.pdb

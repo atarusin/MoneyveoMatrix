@@ -1,0 +1,7 @@
+D:\Projects\Tepm\MoneyveoTest\Model\bin\Debug\Model.dll
+D:\Projects\Tepm\MoneyveoTest\Model\bin\Debug\Model.pdb
+D:\Projects\Tepm\MoneyveoTest\Model\bin\Debug\Matrix.dll
+D:\Projects\Tepm\MoneyveoTest\Model\bin\Debug\Matrix.pdb
+D:\Projects\Tepm\MoneyveoTest\Model\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Projects\Tepm\MoneyveoTest\Model\obj\Debug\Model.dll
+D:\Projects\Tepm\MoneyveoTest\Model\obj\Debug\Model.pdb
